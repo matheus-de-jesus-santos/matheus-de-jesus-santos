@@ -7,6 +7,11 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
+<div align="left">
+  <a href="https://github.com/matheus-de-jesus-santos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-jesus-santos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 **Aplicações e Dados**
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -17,8 +22,8 @@
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 **Ferramentas de Desenvolvimento**
