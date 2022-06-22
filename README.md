@@ -8,7 +8,6 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 <div align="left">
-  <a href="https://github.com/matheus-de-jesus-santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-jesus-santos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
