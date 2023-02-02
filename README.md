@@ -2,8 +2,8 @@
 <h3> 👨🏿 &nbsp;Sobre mim </h3>
 
 - 🔥 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas na PUC MG</a>.
-- 🌱 &nbsp; Estudando Java diariamente ☕.
+- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas </a>.
+- 🌱 &nbsp; Estudando React diariamente ☕.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
